@@ -1,0 +1,1 @@
+# plugins-makeiteasy-slider
